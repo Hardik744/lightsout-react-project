@@ -1,0 +1,12 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  transition: all 0.7s ease;
+  background-color: #263238;
+}
+
+.Cell-lit {
+  background: rgb(129,63,251);
+  background: linear-gradient(127deg, rgba(129,63,251,1) 0%, rgba(252,70,233,1) 71%);
+};
